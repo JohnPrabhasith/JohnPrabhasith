@@ -19,7 +19,19 @@ Here are some ideas to get you started:
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=JohnPrabhasith&color=blue)
 
-👋 I'm Bakthula Lalith Prabhasith<br><br>🔭 I’m currently working on:  <br>A GenAI-powered multi-agent document intelligence platform (**TatLumen**) built with LangChain, Groq LLMs, CrewAI, and AWS — combining LLM pipelines, secure backend APIs, and full-stack deployment.<br><br>👯 I’m looking to collaborate on:  <br>AI-driven applications, full-stack product builds, and cloud-based ML systems — especially where backend meets GenAI.<br><br>💼 Actively seeking :<br>Machine Learning or Backend internships.<br><br>🌱 I’m currently learning:  <br>MLOps, scalable backend architectures, and fine-tuning transformer models.<br><br>💬 Ask me about:  <br>Marvel, GenAI (Not Prompt Engineering plz),<br><br>⚡ Interesting fact About Me:  <br>I prefer doing projects rather than working on DSA (I can do that all day 😉).
+# 👋 I'm Bakthula Lalith Prabhasith<br><br>
+### 🔭  I’m currently working on:  
+A GenAI-powered multi-agent document intelligence platform (**TatLumen**) built with LangChain, Groq LLMs, CrewAI, and AWS — combining LLM pipelines, secure backend APIs, and full-stack deployment.<br>
+### 👯 I’m looking to collaborate on:  
+AI-driven applications, full-stack product builds, and cloud-based ML systems — especially where backend meets GenAI.<br><br>
+### 💼 Actively seeking :
+Machine Learning or Backend internships.<br>
+### 🌱 I’m currently learning:  
+MLOps, scalable backend architectures, and fine-tuning transformer models.<br><br>
+### 💬 Ask me about:  
+Marvel, GenAI (Not Prompt Engineering plz),<br>
+### ⚡ Interesting fact About Me:  
+I prefer doing projects rather than working on DSA (I can do that all day 😉).
 
 
 ## 🌐 Socials:
